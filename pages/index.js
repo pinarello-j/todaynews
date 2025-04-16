@@ -29,7 +29,7 @@ export default function Home() {
       </Head>
       <div className="site-title">
         <h1>CARD NEWS APP</h1>
-        <p>Where typography meets activism</p>
+        <p>CURSOR AI React.js</p>
       </div>
       <Header />
       <div className="features">

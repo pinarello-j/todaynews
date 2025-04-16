@@ -33,8 +33,8 @@ body {
   background-position: center;
   color: #d4ff00;
   text-align: left;
-  padding: 100px 20px;
-  height: 100vh;
+  padding: 50px 20px;
+  height: 33vh;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
