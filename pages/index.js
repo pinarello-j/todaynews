@@ -28,7 +28,7 @@ export default function Home() {
         <meta name="description" content="A simple card news web app" />
       </Head>
       <div className="site-title">
-        <h1>NEWS APP</h1>
+        <h1>CARD NEWS APP</h1>
         <p>Where typography meets activism</p>
       </div>
       <Header />
